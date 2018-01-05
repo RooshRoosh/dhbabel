@@ -1,0 +1,4 @@
+{
+  "entry_point": "./run.sh",
+  "image": "roosh/dh-2018-babel-qualification"
+}
